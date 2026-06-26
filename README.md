@@ -4,9 +4,6 @@
 ![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-06B6D4?logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript)
-![License](https://img.shields.io/badge/License-MIT-green)
-
-# 📝 Gerenciador de Tarefas
 
 Aplicação desenvolvida em React para gerenciamento de tarefas, permitindo adicionar, concluir, excluir e visualizar detalhes de cada tarefa. O projeto foi criado com foco em praticar conceitos fundamentais do ecossistema React, componentização e gerenciamento de estado.
 
